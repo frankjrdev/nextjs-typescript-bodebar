@@ -1,0 +1,48 @@
+.container {
+  position: relative;
+
+  width: 100vw;
+  height: 1246px;
+}
+
+.title {
+  color: #7b7b7b;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 54px;
+  text-align: center;
+  margin-top: 110px;
+}
+
+.botleContainer {
+  display: flex;
+  margin-top: 88px;
+  width: 100vw;
+  position: relative;
+}
+
+.productContainer {
+  margin-right: 171px;
+}
+
+.titleProduct {
+  color: black;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: left;
+}
+
+.priceProduct {
+  color: #7b7b7b;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: left;
+}

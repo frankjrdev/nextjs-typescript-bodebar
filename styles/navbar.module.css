@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #955251;
+  justify-content: space-around;
+}
+
+.navbarContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  display: block;
+  padding: 20px 15px;
+  color: #eaeaea;
+  font-family: roboto;
+  size: 24px;
+  font-weight: 700;
+}
+
+.link:hover {
+  background-color: #4b2726;
+  color: black;
+}

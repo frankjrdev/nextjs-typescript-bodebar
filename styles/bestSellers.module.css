@@ -1,0 +1,51 @@
+.container {
+  width: 100vw;
+  height: 1094px;
+  position: relative;
+}
+
+.title {
+  font-family: Roboto;
+  font-weight: 700;
+  text-align: center;
+  font-size: 46px;
+  color: #7b7b7b;
+  text-decoration: underline;
+}
+
+.containerImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 97px;
+}
+
+.containerImageBuchanas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 97px;
+  background-color: #95353abf;
+}
+
+.titleBuchanas {
+  background-color: #333333;
+  width: 420px;
+  height: 96px;
+  color: white;
+  text-align: left;
+  vertical-align: center;
+  font-family: Roboto;
+  font-style: bold;
+  font-size: 32px;
+  line-height: 38px;
+  line-height: 100%;
+}
+
+.bottlesContainer {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  margin-top: 170px;
+}
